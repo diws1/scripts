@@ -1,5 +1,5 @@
 
 <b>Note: </b>\
-To use this script, you can put in <i>/usr/local/bin/</i> directory. Then change permission of this script with \
-<i> sudo chmod 755 /usr/local/bin/scriptname.sh  </i> \
-Then run script with typing <i>scriptname.sh</i> on your terminal
+To use this script, you can put in <i><b>/usr/local/bin/</i></b> directory. Then change permission of this script with \
+<i><b> sudo chmod 755 /usr/local/bin/scriptname.sh  </i></b> \
+Then run script with typing <i><b>scriptname.sh</i></b> on your terminal
