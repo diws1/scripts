@@ -1,6 +1,6 @@
 
 <b>Note: </b>\
-To use this script, you can put in <b>/usr/local/bin/</b> directory. Then change permission of this script,for example:
+To use this script, you can put in <b>/usr/local/bin/</b> directory. Then change permission of this script, for example:
 ```
 $ sudo chmod 755 /usr/local/bin/battery.sh
 ```
